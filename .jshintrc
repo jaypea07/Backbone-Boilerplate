@@ -1,0 +1,48 @@
+{
+	"bitwise": true
+	, "camelcase": true
+	, "curly": true
+	, "eqeqeq": true
+	, "es3": true
+	, "forin": true
+	, "immed": true
+	, "latedef": true
+	, "newcap": true
+	, "noarg": true
+	, "noempty": true
+	, "nonew": true
+	, "plusplus": false
+	, "quotmark": true
+	, "undef": true
+	, "unused": true
+	, "strict": false
+	, "trailing": true
+	, "maxcomplexity": 15
+	, "boss": true
+	, "laxcomma": true
+	, "loopfunc": true
+	, "maxerr": 1000
+	, "browser" : true
+	, "devel" : true
+	, "jquery": true
+	, "onevar": true
+	, "predef": [
+		"FS"
+		, "define"
+		, "require"
+		, "country"
+		, "localLanguage"
+		, "country"
+		, "catModalSrc"
+		, "router"
+		, "routeReady"
+		, "taggingReady"
+		, "cmCreateElementTag"
+		, "mobileLink"
+		, "mobileText"
+		, "Hogan"
+		, "siteName"
+		, "_gaq"
+		, "__super__"
+	]
+}
