@@ -5,7 +5,10 @@ var require = {
 			, 'js/bootstrap.min'
 		]
 		, backbone: 'http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min'
-		, jquery: 'http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min'
+		, jquery: [
+			'//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min'
+			, 'js/jquery.min'
+		]
 		, text: 'js/text'
 		, underscore: 'http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min'
 	}
