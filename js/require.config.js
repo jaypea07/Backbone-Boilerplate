@@ -4,7 +4,10 @@ var require = {
 			'//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min'
 			, 'js/bootstrap.min'
 		]
-		, backbone: 'http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min'
+		, backbone: [
+			'http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min'
+			, 'backbone.min'
+		]
 		, jquery: [
 			'//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min'
 			, 'js/jquery.min'
