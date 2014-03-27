@@ -3,3 +3,4 @@ js/require.config.js
 js/require.min.js
 js/text.js
 js/jquery.min.js
+js/underscore.min.js
